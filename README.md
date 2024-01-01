@@ -1,3 +1,3 @@
-# discord_template
+# CSharpRunner
 
-discordbotのテンプレート
+discordから専用のdockerコンテナを立てて内部でコードを実行したりできるようになる予定のやつ
